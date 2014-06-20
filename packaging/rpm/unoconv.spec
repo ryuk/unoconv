@@ -10,7 +10,7 @@ License: GPL
 Group: System Environment/Base
 URL: http://dag.wieers.com/home-made/unoconv/
 
-Source: https://github.com/downloads/dagwieers/unoconv/unoconv-%{version}.tar.gz
+Source: https://github.com/ryuk/unoconv/archive/%{version}.tar.gz
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-root
 
 BuildArch: noarch
