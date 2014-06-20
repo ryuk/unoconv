@@ -4,7 +4,7 @@
 
 Summary: Tool to convert between any document format supported by LibreOffice
 Name: unoconv
-Version: 0.6
+Version: 0.6.1
 Release: 1%{?rpmrelease}%{?dist}
 License: GPL
 Group: System Environment/Base
@@ -51,6 +51,9 @@ and many more...
 %{_bindir}/unoconv
 
 %changelog
+* Thu Jun 19 2014 Dmitriy Rybalko
+- Create fork of offical repo
+
 * Mon Sep 10 2012 Dag Wieers <dag@wieers.com> - 0.6-1
 - Updated to release 0.6.
 

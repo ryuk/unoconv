@@ -27,7 +27,7 @@ import time
 __version__ = "$Revision$"
 # $Source$
 
-VERSION = '0.6'
+VERSION = '0.6.1'
 
 doctypes = ('document', 'graphics', 'presentation', 'spreadsheet')
 
