@@ -1,3 +1,6 @@
+* 0.6.2 - 29/09/2014
+- Fix a problem when specifying a non-existing output directory (issue #133)
+
 * 0.6 - 10/09/2012
 - Implement debugging output (-vvv)
 - Fixes to office comparison
